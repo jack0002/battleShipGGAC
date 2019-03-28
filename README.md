@@ -1,3 +1,3 @@
-# Domotic management application based on Java and Arduino
+# BattleShip GGCA Game
 ## Description
-This project's purpose is to create a management software for home-automation. A Java graphical interface allow the user to change house's settings. The house simulation will be done with an Arduino board.
+This project's purpose is to create a battleship game with one server who handles one or more match with 2 clients. It is implemented in java using com.sun.net.HttpServer and the HttpClient Apache's project.
